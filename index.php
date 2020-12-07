@@ -731,7 +731,7 @@
                     <img src="https://megaone.acrothemes.com/charity/img/portfolio1.jpg" alt="">
                     <div class="overlay">
                         <div class="plus-gallery">
-                            <i class="las la-plus"></i>
+                            <i class="fas fa-plus"></i>
                         </div>
                     </div>
                 </a>
@@ -742,7 +742,7 @@
                     <img src="https://megaone.acrothemes.com/charity/img/portfolio2.jpg" alt="">
                     <div class="overlay">
                         <div class="plus-gallery">
-                            <i class="las la-plus"></i>
+                            <i class="fas fa-plus"></i>
                         </div>
                     </div>
                 </a>
@@ -753,7 +753,7 @@
                     <img src="https://megaone.acrothemes.com/charity/img/portfolio4.jpg" alt="">
                     <div class="overlay">
                         <div class="plus-gallery">
-                            <i class="las la-plus"></i>
+                            <i class="fas fa-plus"></i>
                         </div>
                     </div>
                 </a>
@@ -764,7 +764,7 @@
                     <img src="https://megaone.acrothemes.com/charity/img/portfolio3.jpg" alt="">
                     <div class="overlay">
                         <div class="plus-gallery">
-                            <i class="las la-plus"></i>
+                            <i class="fas fa-plus"></i>
                         </div>
                     </div>
                 </a>
