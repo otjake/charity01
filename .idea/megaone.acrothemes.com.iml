@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="bundle" level="application" />
+    <orderEntry type="library" name="cubeportfolio" level="application" />
+    <orderEntry type="library" name="owl.carousel" level="application" />
+    <orderEntry type="library" name="animate" level="application" />
+    <orderEntry type="library" name="jquery.fancybox" level="application" />
+    <orderEntry type="library" name="line-awesome" level="application" />
+    <orderEntry type="library" name="settings" level="application" />
+    <orderEntry type="library" name="jquery.cubeportfolio" level="application" />
+    <orderEntry type="library" name="jquery.themepunch.tools" level="application" />
+    <orderEntry type="library" name="jquery.themepunch.revolution" level="application" />
+    <orderEntry type="library" name="revolution.extension.actions" level="application" />
+    <orderEntry type="library" name="revolution.extension.carousel" level="application" />
+    <orderEntry type="library" name="revolution.extension.kenburn" level="application" />
+    <orderEntry type="library" name="revolution.extension.layeranimation" level="application" />
+    <orderEntry type="library" name="revolution.extension.migration" level="application" />
+    <orderEntry type="library" name="revolution.extension.navigation" level="application" />
+    <orderEntry type="library" name="revolution.extension.parallax" level="application" />
+    <orderEntry type="library" name="revolution.extension.slideanims" level="application" />
+    <orderEntry type="library" name="revolution.extension.video" level="application" />
+    <orderEntry type="library" name="mediaelement-and-player" level="application" />
+    <orderEntry type="library" name="wow" level="application" />
+    <orderEntry type="library" name="parallaxie" level="application" />
+    <orderEntry type="library" name="script" level="application" />
+  </component>
+</module>

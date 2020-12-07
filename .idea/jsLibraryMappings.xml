@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="PROJECT" libraries="{animate, bundle, cubeportfolio, jquery.cubeportfolio, jquery.fancybox, jquery.themepunch.revolution, jquery.themepunch.tools, line-awesome, mediaelement-and-player, owl.carousel, parallaxie, revolution.extension.actions, revolution.extension.carousel, revolution.extension.kenburn, revolution.extension.layeranimation, revolution.extension.migration, revolution.extension.navigation, revolution.extension.parallax, revolution.extension.slideanims, revolution.extension.video, script, settings, wow}" />
+  </component>
+</project>
