@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from megaone.acrothemes.com/index-charity.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 03 Dec 2020 01:26:59 GMT -->
+<!-- Mirrored from megaone.acrothemes.com/index-charity.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 03 Dec 2020 01:26:59 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -876,5 +876,5 @@
 <script src="js/script.js"></script>
 </body>
 
-<!-- Mirrored from megaone.acrothemes.com/index-charity.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 03 Dec 2020 01:26:59 GMT -->
+<!-- Mirrored from megaone.acrothemes.com/index-charity.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 03 Dec 2020 01:26:59 GMT -->
 </html>
