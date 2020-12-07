@@ -1,20 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from megaone.acrothemes.com/index-charity.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 03 Dec 2020 01:26:59 GMT -->
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="author" content="Themes Industry">
     <!-- description -->
-    <meta name="description" content="MegaOne is a highly creative, modern, visually stunning and Bootstrap responsive multipurpose agency and HTML5 template with 14 ready home page demos.">
     <!-- keywords -->
-    <meta name="keywords" content="creative, modern, clean, bootstrap responsive, html5, css3, portfolio, blog, agency, templates, multipurpose, one page, corporate, start-up, studio, branding, designer, freelancer, carousel, parallax, photography, personal, masonry, grid, faq">
+    <meta name="keywords" content="charity, modern, organization, bootstrap responsive, html5, css3, portfolio, blog, agency, multipurpose, one page, corporate, start-up, studio, branding, designer, freelancer, carousel, parallax, photography, personal, masonry, grid, faq">
     <!-- Page Title -->
     <title>Charity | MegaOne HTML5 Template</title>
     <!-- Favicon -->
-    <link rel="icon" href="https://megaone.acrothemes.com/charity/img/favicon.ico">
+<!--    <link rel="icon" href="https://megaone.acrothemes.com/charity/img/favicon.ico">-->
+    <script src="https://kit.fontawesome.com/760c3d66bf.js" crossorigin="anonymous"></script>
     <!-- Bundle -->
 <!--    <link rel="stylesheet" href="https://megaone.acrothemes.com/vendor/css/bundle.min.css">-->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
@@ -49,7 +48,7 @@
 
     <div class="logo margin_navbar-logo logo_display">
         <a href="#">
-            <img src="https://megaone.acrothemes.com/charity/img/logo-white.png" alt="Logo Img"></a>
+<!--            <img src="https://megaone.acrothemes.com/charity/img/logo-white.png" alt="Logo Img"></a>-->
     </div>
     <div class="my-tog-btn">
         <span></span>
@@ -116,14 +115,14 @@
                             <a class="nav-link" href="#contact">CONTACT</a>
                         </li>
                         <li class="nav-item">
-                            <a href="#contact" class="btn btn-slider gradient-yellow-btn">Donate Now</a>
+                            <a href="#contact" class="btn btn-slider gradient-yellow-btn">Register Now</a>
                         </li>
                     </ul>
 
                     <div class="banner-icons sticky-icons">
-                        <a href="#"><i class="lab la-facebook-f"></i></a>
-                        <a href="#"><i class="lab la-twitter"></i></a>
-                        <a href="#"><i class="lab la-linkedin-in"></i></a>
+                        <a href="#"><i class="nav-icon fab fa-facebook"></i></a>
+                        <a href="#"><i class="nav-icon fab fa-twitter"></i></a>
+                        <a href="#"><i class="nav-icon fab fa-linkedin"></i></a>
                     </div>
 
                 </div>
@@ -145,10 +144,9 @@
                 <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
                 <li class="nav-item"><a class="nav-link" href="#causes">Causes</a></li>
                 <li class="nav-item"><a class="nav-link" href="#gallery">Gallery</a></li>
-                <li class="nav-item"><a class="nav-link" href="#blog">Blog</a></li>
                 <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
                 <li class="nav-item mt-4">
-                    <a href="#contact" class="btn btn-slider trans-btn">Donate Now</a>
+                    <a href="#contact" class="btn btn-slider trans-btn">Register Now</a>
                 </li>
             </ul>
         </nav>
@@ -868,7 +866,6 @@
 
 <!-- custom script -->
 <script src="js/jquery.fancybox.js"></script>
-<!--<script src="https://megaone.acrothemes.com/charity/js/jquery.fancybox.min.js"></script>-->
 <script src="js/owl.carousel.min.js"></script>
 <script src="js/mediaelement-and-player.min.js"></script>
 <script src="js/wow.min.js"></script>
@@ -876,5 +873,4 @@
 <script src="js/script.js"></script>
 </body>
 
-<!-- Mirrored from megaone.acrothemes.com/index-charity.php by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 03 Dec 2020 01:26:59 GMT -->
 </html>
