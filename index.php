@@ -76,9 +76,9 @@
 
 <!--                <div class="col-sm-12 col-md-4 col-lg-4 text-right">-->
 <!--                    <div class="banner-icons mr-2">-->
-<!--                        <a href="#"><i class="lab la-facebook-f"></i></a>-->
-<!--                        <a href="#"><i class="lab la-twitter"></i></a>-->
-<!--                        <a href="#"><i class="lab la-linkedin-in"></i></a>-->
+<!--                        <a href="#"><i class="fas fa-facebook-f"></i></a>-->
+<!--                        <a href="#"><i class="fas fa-twitter"></i></a>-->
+<!--                        <a href="#"><i class="fas fa-linkedin-in"></i></a>-->
 <!--                    </div>-->
 <!--                </div>-->
 
@@ -829,12 +829,12 @@
         <div class="row">
             <div class="col-12 text-center">
                 <ul class="footer_ul">
-                    <li class="footer_list"><i class="lab la-facebook-f"></i></li>
-                    <li class="footer_list"><i class="lab la-twitter"></i></li>
-                    <li class="footer_list"><i class="lab la-google-plus"></i></li>
-                    <li class="footer_list"><i class="lab la-linkedin-in"></i></li>
-                    <li class="footer_list"><i class="lab la-instagram"></i></li>
-                    <li class="footer_list"><i class="las la-envelope"></i></li>
+                    <li class="footer_list"><i class="fab fa-facebook-f"></i></li>
+                    <li class="footer_list"><i class="fab fa-twitter"></i></li>
+                    <li class="footer_list"><i class="fab fa-google-plus"></i></li>
+                    <li class="footer_list"><i class="fab fa-linkedin-in"></i></li>
+                    <li class="footer_list"><i class="fab fa-instagram"></i></li>
+                    <li class="footer_list"><i class="fas fa-envelope-open-text"></i></li>
                 </ul>
                 <p class="info footer_text"><i class="far fa-copyright"></i>2020 Avalanche Media</p>
             </div>
