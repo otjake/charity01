@@ -10,7 +10,7 @@
     <!-- keywords -->
     <meta name="keywords" content="charity, modern, organization, bootstrap responsive, html5, css3, portfolio, blog, agency, multipurpose, one page, corporate, start-up, studio, branding, designer, freelancer, carousel, parallax, photography, personal, masonry, grid, faq">
     <!-- Page Title -->
-    <title>Charity | MegaOne HTML5 Template</title>
+    <title>Charity | P & K page</title>
     <!-- Favicon -->
 <!--    <link rel="icon" href="https://megaone.acrothemes.com/charity/img/favicon.ico">-->
     <script src="https://kit.fontawesome.com/760c3d66bf.js" crossorigin="anonymous"></script>
